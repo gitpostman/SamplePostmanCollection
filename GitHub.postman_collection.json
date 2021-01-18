@@ -30,7 +30,7 @@
 					},
 					"request": {
 						"auth": {
-							"type": "bearer",
+							"type": "bearer", 
 							"bearer": [
 								{
 									"key": "token",
